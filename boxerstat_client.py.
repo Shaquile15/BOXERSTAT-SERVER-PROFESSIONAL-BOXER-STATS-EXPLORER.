@@ -14,6 +14,21 @@ def get_boxer_info():
     record = input("Record (e.g., 22-1-1): ")
     return {"name": name, "weight": weight, "record": record}
 
+def search_boxer():
+    search_name = input("\nEnter the name of the boxer to look up: ")
+    found = False
+    try:
+        with open("boxer.txt", "r") as file:
+            for line in file:
+                if search_name.lower() in line.lower():
+                    print("✅ Boxer Found:", line.strip())
+                    found = True
+                    break
+        if not found:
+            print("❌ Boxer not found.")
+    except FileNotFoundError:
+        print("⚠️ boxer.txt not found.")
+
 
 # --- CLIENT CONNECTION ---
 client = socket.socket()
@@ -43,3 +58,6 @@ while True:
         break
 
 client.close()
+
+# Step 3: Search for a boxer
+search_boxer()
