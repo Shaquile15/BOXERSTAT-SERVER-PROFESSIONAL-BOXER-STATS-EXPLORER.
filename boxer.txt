@@ -1,0 +1,2 @@
+Name: Mike Tyson, Weight: Heavyweight, Record: 50-6-0
+Name: Muhammad Ali, Weight: Heavyweight, Record: 56-5-0
