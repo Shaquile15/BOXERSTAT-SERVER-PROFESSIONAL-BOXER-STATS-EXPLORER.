@@ -1,2 +1,16 @@
-Name: Mike Tyson, Weight: Heavyweight, Record: 50-6-0
-Name: Muhammad Ali, Weight: Heavyweight, Record: 56-5-0
+Name: Errol Spence Jr, Weight: Welterweight, Record: 28-1-0
+Name: Terrance Crawford, Weight: Welterweight, Record: 41-0-0
+Name: Yordenis Ugas, Weight: Welterweight, Record: 27-5-0
+Name: Danny Garcia, Weight: Welterweight, Record: 37-4-0
+Name: Shawn Porter, Weight: Welterweight, Record: 31-4-0
+Name: Gervonta Davis, Weight: Lightweight, Record: 30-0-1
+Name: Lamont Roach Jr, Weight: Lightweight, Record: 25-1-1
+Name: Frank Martian, Weight: Lightweight, Record: 18-1-0
+Name: Ryan Garcia, Weight: Super Lightweight and Welterweight, Record: 23-1-0
+Name: Muhammad Ali, Weight: Lightweight, Record: 56-5-0
+Name: Mike Tyson, Weight: Heavyweight, Record: 50-44-0
+Name: Jermall Charlo, Weight: Light middleweight, Record: 35-2-1
+Name: Brian Castano, Weight: Light middleweight, Record: 17-1-2
+Name: Erickson Lubin, Weight: Light middleweight, Record: 27-2-0
+Name: Austin Trout, Weight: Light middleweight, Record: 37-5-1
+Name: Jorge Cota, Weight: Light middleweight, Record: 31-7-0
