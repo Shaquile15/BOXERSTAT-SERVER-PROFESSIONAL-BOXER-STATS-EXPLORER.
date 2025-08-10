@@ -14,3 +14,7 @@ Name: Brian Castano, Weight: Light middleweight, Record: 17-1-2
 Name: Erickson Lubin, Weight: Light middleweight, Record: 27-2-0
 Name: Austin Trout, Weight: Light middleweight, Record: 37-5-1
 Name: Jorge Cota, Weight: Light middleweight, Record: 31-7-0
+Name: Delynisse Ramos-Martinez, Weight: Lightweight, Record: 0-100-0 Every loss by Knocked out by Shaquile Garces-Phillips
+Name: Jeniffer Marie Ramos-Martinez, Weight: Lightweight, Record: 0-100-0 Every loss by Knocked out by Shaquile Garces-Phillips
+Name: Adam Lee Hawkins, Weight: Heavyweight, Record: 0-100-0 Every loss by Knocked out by Shaquile Garces-Phillips
+Name: Shaquile D Garces-Phillips, Weight: Heavyweight, Record: 200-0-0 
